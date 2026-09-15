@@ -90,6 +90,6 @@ src/
         ├── features/ # Gherkin
         └── extent.properties
 ```
-##Nota
+## Nota
 
 El login se encuentra en `Antecedentes` porque funciona como precondición común de los escenarios y no se contabiliza como escenario independiente. Esto evita usar login/logout como uno de los casos principales y permite demostrar correctamente el concepto de Background de Cucumber.
