@@ -90,20 +90,6 @@ src/
         ├── features/ # Gherkin
         └── extent.properties
 ```
-
-## Subir a GitHub
-
-Crear un repositorio nuevo vacío y luego ejecutar:
-
-```bash
-git init
-git add .
-git commit -m "Examen final WEB - Selenium JUnit Cucumber"
-git branch -M main
-git remote add origin URL_DEL_REPOSITORIO
-git push -u origin main
-```
-
-## Nota académica
+##Nota
 
 El login se encuentra en `Antecedentes` porque funciona como precondición común de los escenarios y no se contabiliza como escenario independiente. Esto evita usar login/logout como uno de los casos principales y permite demostrar correctamente el concepto de Background de Cucumber.
