@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>HTTPS</protocol>
+        <documentTitle>SauceDemo - Examen Final</documentTitle>
+        <reportName>Reporte Spark - Framework WEB</reportName>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
